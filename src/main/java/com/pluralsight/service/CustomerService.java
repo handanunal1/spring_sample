@@ -9,8 +9,4 @@ public interface CustomerService {
 	List<Customer> findAll();
   
 	
-	
-
-	
-	
 }
